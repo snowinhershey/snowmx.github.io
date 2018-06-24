@@ -1,7 +1,7 @@
 # Snow's Artwork
 ## First Issue
 ### 《山居诗画》（shanjushihua) 
-is about mindful sketch and poems [in Chinese]. Snow sketched what inspired her in the daily life when she went to school in West Virginia. 《山居诗画》（shanjushihua) consisted of 30 pages of sketch about mountains, trees, rocks/stones,and flowers.《山居詩畫》以描寫西弗吉尼亞山居生活為主，共收錄詩畫30篇，屬於作者“正念速寫”（mindful sketch)的日常記錄。
+is about mindful sketch and poems [in Chinese]. Snow sketched what inspired her in the daily life when she went to school in West Virginia. 《山居诗画》（shanjushihua) consisted of 30 pages of sketch about mountains, trees, rocks/stones, and flowers.《山居詩畫》以描寫西弗吉尼亞山居生活為主，共收錄詩畫30篇，屬於作者“正念速寫”（mindful sketch)的日常記錄。
 #### 1 雾弥山色入梦里，汀州倚石好作眠。
 ![wumishanserumengli](https://user-images.githubusercontent.com/35896687/41823517-1e4f9a30-77cf-11e8-8f58-642dcbc00f7b.jpg)
 #### 2 云亭清景好，谁人引鹤归。
