@@ -40,28 +40,28 @@ is about mindful sketch and poems [in Chinese]. Snow sketched what inspired her 
 ![xiangtuiyiyifangchenyao](https://user-images.githubusercontent.com/35896687/41823536-36594068-77cf-11e8-9b61-7c942fe067a7.jpg)
 ### 19 岭上碧绡轻云末，小园幽径可遥思。
 ![lingshangbixiaoqingyunmo](https://user-images.githubusercontent.com/35896687/41823538-37c23ae0-77cf-11e8-9593-1fe3a108f053.jpg)
-### 21 风消雨余后，水急没浅石。
+### 20 风消雨余后，水急没浅石。
 ![fengxiaoyuyuhou](https://user-images.githubusercontent.com/35896687/41823539-38fff9c4-77cf-11e8-91d7-01e5051c7e74.jpg)
-### 22 冷锋斜云走，磐石寒潭深。
+### 21 冷锋斜云走，磐石寒潭深。
 ![lengfengxieyunzou](https://user-images.githubusercontent.com/35896687/41823540-3a4323ce-77cf-11e8-905c-e3b327e6683a.jpg)
-### 23 倚傍岩阿草泽深，放旷湖边云烟远。
+### 22 倚傍岩阿草泽深，放旷湖边云烟远。
 ![yibangyanecaozeshen](https://user-images.githubusercontent.com/35896687/41823541-3b823496-77cf-11e8-97b9-6fff9705ba99.jpg)
-### 24 海客烟涛里，软沙白浪下。
+### 23 海客烟涛里，软沙白浪下。
 ![haikeyantaoli](https://user-images.githubusercontent.com/35896687/41823542-3ceb14ce-77cf-11e8-87a4-150190575c28.jpg)
-### 25 柴扉微开林径窄，山路回环水泊宽。
+### 24 柴扉微开林径窄，山路回环水泊宽。
 ![chaifeiweikailinjingzhai](https://user-images.githubusercontent.com/35896687/41823543-3e193b00-77cf-11e8-8f24-4c4ef86f5a5c.jpg)
-### 26 流草且乘风舞复，乱枝犹在山色中。
+### 25 流草且乘风舞复，乱枝犹在山色中。
 ![liucaoqiuchengfengwufu](https://user-images.githubusercontent.com/35896687/41823544-40d7f9a8-77cf-11e8-86c0-2fe68f5d6382.jpg)
-### 27 绣花织锦缎，点翠画青眉。
+### 26 绣花织锦缎，点翠画青眉。
 ![xiuhuazhijinduan](https://user-images.githubusercontent.com/35896687/41823545-422b5480-77cf-11e8-9d4a-2737ca523943.jpg)
-### 28 院里花老绿叶长，山中珠蕾初绽未？
+### 27 院里花老绿叶长，山中珠蕾初绽未？
 ![yuanlihualaolvyechang](https://user-images.githubusercontent.com/35896687/41823546-437d54dc-77cf-11e8-8f04-21c219c7559f.jpg)
-### 29 木叶连枝缘石走，自在流泉人不知。
+### 28 木叶连枝缘石走，自在流泉人不知。
 ![muyelianzhiyuanshizou](https://user-images.githubusercontent.com/35896687/41823547-44bcd804-77cf-11e8-85da-0c1df75f7c65.jpg)
-### 30 林趣总在暮薄雾，山情偏爱绿溪荫。
+### 29 林趣总在暮薄雾，山情偏爱绿溪荫。
 ![linquzongzaimubaowu](https://user-images.githubusercontent.com/35896687/41823548-461ae1fa-77cf-11e8-8e9c-69a165662cad.jpg)
-### 31 小径沿石过，怪木绕其间。
+### 30 小径沿石过，怪木绕其间。
 ![xiaojingyanshiguo](https://user-images.githubusercontent.com/35896687/41823549-4756262e-77cf-11e8-9dcd-a24e2725b6be.jpg)
-### 32 “西弗州多丘，山小而平，相連無盡。每露溶霧起，或偏山含臥，或依江連渚，濃淡遊止，狀貌難詳，是謂霧鄉。” —題《西弗山水圖》。
+## “西弗州多丘，山小而平，相連無盡。每露溶霧起，或偏山含臥，或依江連渚，濃淡遊止，狀貌難詳，是謂霧鄉。” —題《西弗山水圖》。
 ![firstpage introduction](https://user-images.githubusercontent.com/35896687/41823550-489b81f0-77cf-11e8-8ce7-e45c56e556e1.jpg)
 
