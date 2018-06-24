@@ -1,8 +1,7 @@
 # Snow's Artwork
 ## First Issue
 ### 《山居诗画》（shanjushihua) 
-is about mindful sketch and poems [in Chinese]. Snow sketched what inspired her in the daily life when she went to school in West Virginia. 
-### 《山居诗画》（shanjushihua) consisted of 30 pages of sketch about mountains, trees, rocks/stones,and flowers.
+is about mindful sketch and poems [in Chinese]. Snow sketched what inspired her in the daily life when she went to school in West Virginia. 《山居诗画》（shanjushihua) consisted of 30 pages of sketch about mountains, trees, rocks/stones,and flowers.《山居詩畫》以描寫西弗吉尼亞山居生活為主，共收錄詩畫30篇，屬於作者“正念速寫”（mindful sketch)的日常記錄。
 #### 1 雾弥山色入梦里，汀州倚石好作眠。
 ![wumishanserumengli](https://user-images.githubusercontent.com/35896687/41823517-1e4f9a30-77cf-11e8-8f58-642dcbc00f7b.jpg)
 #### 2 云亭清景好，谁人引鹤归。
@@ -63,7 +62,7 @@ is about mindful sketch and poems [in Chinese]. Snow sketched what inspired her 
 ![linquzongzaimubaowu](https://user-images.githubusercontent.com/35896687/41823548-461ae1fa-77cf-11e8-8e9c-69a165662cad.jpg)
 #### 31 小径沿石过，怪木绕其间。
 ![xiaojingyanshiguo](https://user-images.githubusercontent.com/35896687/41823549-4756262e-77cf-11e8-9dcd-a24e2725b6be.jpg)
-#### 32 “西弗州多丘，山小而平，相連無盡。每露溶霧起，或偏山含臥，或依江連渚，濃淡遊止，狀貌難詳，是謂霧鄉。” —題《西弗山水圖》。《山居詩畫》以描寫西弗吉尼亞山居生活為主，共收錄詩畫30篇，屬於作者“正念速寫”（mindful sketch)的日常記錄。
+#### 32 “西弗州多丘，山小而平，相連無盡。每露溶霧起，或偏山含臥，或依江連渚，濃淡遊止，狀貌難詳，是謂霧鄉。” —題《西弗山水圖》。
 ####                                                                                                                  Snow 
 ####                                                                                                            6/24/2018
 ![firstpage introduction](https://user-images.githubusercontent.com/35896687/41823550-489b81f0-77cf-11e8-8ce7-e45c56e556e1.jpg)
