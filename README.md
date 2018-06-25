@@ -1,4 +1,5 @@
 # SnoW's Artwork
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ## First Issue
 ## [About Snow](https://snowinhershey.github.io/about.html)
 ### 《山居诗画》（shanjushihua) 
