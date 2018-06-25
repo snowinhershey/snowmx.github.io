@@ -2,7 +2,7 @@
 ## First Issue
 ### 《山居诗画》（shanjushihua) 
 is about mindful sketch and poems [in Chinese]. Snow sketched what inspired her in the daily life when she went to school in West Virginia. 《山居诗画》（shanjushihua) consisted of 30 pages of sketch about mountains, trees, rocks/stones, and flowers.《山居詩畫》以描寫西弗吉尼亞山居生活為主，共收錄詩畫30篇，屬於作者“正念速寫”（mindful sketch)的日常記錄。
-### 《山居诗画》（shanjushihua)is also one of the sessions related to "mindful self-care" project. Other publications included 《讀一首禪詩(Read a Zen Poem)》(SnoW (2018). Available at http://bianke.cnki.net/Home/Corpus/16692.html) and "Impact of mindful self-care and perceived stress on the Health related Quality of Life among students aged 18 and over in West Virginia." In Press. 
+#### 《山居诗画》（shanjushihua)is also one of the sessions related to "mindful self-care" project. Other publications included 《讀一首禪詩(Read a Zen Poem)》(SnoW (2018). Available at <http://bianke.cnki.net/Home/Corpus/16692.html>) and "Impact of mindful self-care and perceived stress on the Health related Quality of Life among students aged 18 and over in West Virginia." In Press. 
 ### copyright@SnoW
 ## 1 雾弥山色入梦里，汀州倚石好作眠。
 ![wumishanserumengli](https://user-images.githubusercontent.com/35896687/41823517-1e4f9a30-77cf-11e8-8f58-642dcbc00f7b.jpg)
