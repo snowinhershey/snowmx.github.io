@@ -1,3 +1,4 @@
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
 # SnoW's Artwork
 ## First Issue
 ## [About Snow](https://snowinhershey.github.io/about.html)
