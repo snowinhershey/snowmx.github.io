@@ -1,5 +1,6 @@
 # SnoW's Artwork
 ## First Issue
+## [About Snow](https://snowinhershey.github.io/about.html)
 ### 《山居诗画》（shanjushihua) 
 《山居詩畫》以描寫西弗吉尼亞山居生活為主，共收錄詩畫30篇，屬於作者“正念速寫”（mindful sketch)的日常記錄。《山居诗画》（shanjushihua) is about mindful sketch and poems [in Chinese]. Snow sketched what inspired her in the daily life when she went to school in West Virginia. 《山居诗画》（shanjushihua) consisted of 30 pages of sketch about mountains, trees, rocks/stones, and flowers.
 《山居诗画》（shanjushihua) is also one of the sessions related to "mindful self-care" project. Other publications included [《讀一首禪詩(Read a Zen Poem)》(SnoW (2018)).](http://bianke.cnki.net/Home/Corpus/16692.html) and "Impact of mindful self-care and perceived stress on the Health related Quality of Life among students aged 18 and over in West Virginia." In Press. 
