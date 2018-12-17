@@ -3,7 +3,7 @@
 ## [Other Sketch](https://snowinhershey.github.io/sketch.html)
 ## [Other Carving Artwork](https://snowinhershey.github.io/carving.html)
 ## [Poems: Songs In Her 20s](https://snowinhershey.github.io/poem.html)
-
+## [Second Issue](https://snowinhershey.github.io/issue2.html)
 ## First Issue
 ### 《山居诗画》（shanjushihua) 
 《山居詩畫》以描寫西弗吉尼亞山居生活為主，共收錄詩畫30篇，屬於作者“正念速寫”（mindful sketch)的日常記錄。《山居诗画》（shanjushihua) is about mindful sketch and poems [in Chinese]. Snow sketched what inspired her in the daily life when she went to school in West Virginia. 《山居诗画》（shanjushihua) consisted of 30 pages of sketch about mountains, trees, rocks/stones, and flowers.
